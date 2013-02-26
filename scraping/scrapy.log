@@ -1,0 +1,44 @@
+2013-01-22 12:56:41+0800 [scrapy] INFO: Scrapy 0.16.3 started (bot: scraping)
+2013-01-22 12:56:41+0800 [douban] INFO: Spider opened
+2013-01-22 12:56:41+0800 [douban] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2013-01-22 12:56:41+0800 [douban] INFO: Closing spider (finished)
+2013-01-22 12:56:41+0800 [douban] INFO: Dumping Scrapy stats:
+	{'downloader/request_bytes': 236,
+	 'downloader/request_count': 1,
+	 'downloader/request_method_count/GET': 1,
+	 'downloader/response_bytes': 305,
+	 'downloader/response_count': 1,
+	 'downloader/response_status_count/403': 1,
+	 'finish_reason': 'finished',
+	 'finish_time': datetime.datetime(2013, 1, 22, 4, 56, 41, 563711),
+	 'log_count/INFO': 4,
+	 'response_received_count': 1,
+	 'scheduler/dequeued': 1,
+	 'scheduler/dequeued/memory': 1,
+	 'scheduler/enqueued': 1,
+	 'scheduler/enqueued/memory': 1,
+	 'start_time': datetime.datetime(2013, 1, 22, 4, 56, 41, 503569)}
+2013-01-22 12:56:41+0800 [douban] INFO: Spider closed (finished)
+2013-01-22 14:49:24+0800 [scrapy] INFO: Scrapy 0.16.3 started (bot: scraping)
+2013-01-22 14:49:24+0800 [douban] INFO: Spider opened
+2013-01-22 14:49:24+0800 [douban] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2013-01-22 14:49:24+0800 [douban] INFO: Closing spider (finished)
+2013-01-22 14:49:24+0800 [douban] INFO: Dumping Scrapy stats:
+	{'downloader/request_bytes': 236,
+	 'downloader/request_count': 1,
+	 'downloader/request_method_count/GET': 1,
+	 'downloader/response_bytes': 305,
+	 'downloader/response_count': 1,
+	 'downloader/response_status_count/403': 1,
+	 'finish_reason': 'finished',
+	 'finish_time': datetime.datetime(2013, 1, 22, 6, 49, 24, 462895),
+	 'log_count/INFO': 4,
+	 'response_received_count': 1,
+	 'scheduler/dequeued': 1,
+	 'scheduler/dequeued/memory': 1,
+	 'scheduler/enqueued': 1,
+	 'scheduler/enqueued/memory': 1,
+	 'start_time': datetime.datetime(2013, 1, 22, 6, 49, 24, 409755)}
+2013-01-22 14:49:24+0800 [douban] INFO: Spider closed (finished)
+2013-01-22 15:01:07+0800 [scrapy] INFO: Scrapy 0.16.3 started (bot: scraping)
+2013-01-22 15:01:07+0800 [douban] INFO: Spider opened
